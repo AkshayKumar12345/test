@@ -17,5 +17,7 @@ public class Driver
 		Applicationindependent.navigate("https://modelexperiencecrt.cerner.com/kpi");
 		login.Login(driver, "ak042548", "Cerner@2017");
 		
+		System.out.println("hello hi, checking github");
+		
 	}
 }
